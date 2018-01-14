@@ -51,13 +51,13 @@
 上面的大部分有CRUD功能，但是还有进一步完善吧
 
 
->采用一些框架
+**采用一些框架**
 
-1.codeigniter是一个小巧但功能强大的 PHP 框架，作为一个简单而“优雅”的工具包
+* codeigniter是一个小巧但功能强大的 PHP 框架，作为一个简单而“优雅”的工具包
 
-2.Semantic UI是一个简洁的UI框架，不过看起来挺好的
+* Semantic UI是一个简洁的UI框架，不过看起来挺好的
 
-3.markdown-js 是一个 JavaScript 实现的 Markdown 语法解析器
+* markdown-js 是一个 JavaScript 实现的 Markdown 语法解析器
 
 
 

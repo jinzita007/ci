@@ -2,11 +2,11 @@
 
 application/cache/*
 !application/cache/index.html
-!application/cache/.htaccess
 
 application/logs/*
 !application/logs/index.html
-!application/logs/.htaccess
+
+!application/*/.htaccess
 
 composer.lock
 
@@ -27,8 +27,5 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.stTheme.cache
 *.sublime-workspace
 *.sublime-project
-
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
+/tests/tests/
+/tests/results/
